@@ -1,1 +1,2 @@
 # Jump-Gate-PC
+Jump Gate is an 80s arcade inspired space shooter that I have created as a student project. I have focused on the creation and use of visual assets, and made everything you see except for the asteroids in a week of work. I have tried to create a story for my game, so that people are more invested in it! In total, I made this, including following along with tutorials to learn the coding, in just under a month. Enjoy!
